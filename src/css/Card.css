@@ -1,0 +1,14 @@
+.card {
+  width: 20rem;
+  height: 20rem;
+  background-color: #a792b3;
+  color: rgb(255, 250, 244);
+}
+
+.btn.btn-info {
+  background-color: aquamarine;
+}
+
+.btn.btn-danger {
+  background-color: #6a1e1e;
+}
